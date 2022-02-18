@@ -1,3 +1,8 @@
+# Purpose
+We did this fork in order to migrate React b16 to React v17.  
+The last published version uses lifecycles which will be depracated in React v17.  
+There is already committed solution using UNSAFE but the owner did not approve for publish yet. [Issue on Github](https://github.com/loggi/ui/pull/5701)
+
 # React-Motion
 
 [![Build Status](https://travis-ci.org/chenglou/react-motion.svg?branch=master)](https://travis-ci.org/chenglou/react-motion)
